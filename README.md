@@ -21,19 +21,6 @@ I'm also an **AWS Certified Cloud Practitioner** with a strong interest in Cloud
 - 🏗️ System Design
 - 🌍 Open Source
 
-## 🛠️ Tech Stack
-
-**Languages:** Java • Python • JavaScript • C
-
-**Frontend:** React • Next.js • HTML • CSS • Tailwind CSS
-
-**Backend:** Node.js • Express.js • Spring Boot • Django
-
-**Databases:** PostgreSQL • MySQL • Prisma
-
-**Cloud & DevOps:** AWS • Docker • Git • GitHub
-
-**AI & Data:** Machine Learning • Data Science • AI Engineering
 
 ## 🏆 Achievements
 
