@@ -5,9 +5,7 @@
 
 ---
 
-## 💫 About Me
-
-I'm a Computer Science student at **KL University (Class of 2028)**. I enjoy building software, solving coding problems, and learning new technologies.
+I'm a Computer Science student at **KL University**. I enjoy building software, solving coding problems, and learning new technologies.
 
 I have built **Full Stack applications using Java, Python, and the MERN stack**. I have also worked on **Data Science** projects and am currently learning **AI Engineering** to build intelligent applications.
 
