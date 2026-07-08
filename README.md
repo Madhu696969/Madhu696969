@@ -17,10 +17,8 @@ I'm also an **AWS Certified Cloud Practitioner** with a strong interest in Cloud
 
 - 🤖 AI Engineering & LLM Applications
 - ☁️ Cloud Computing & DevOps
-- ⚡ Full Stack Development
 - 🏗️ System Design
 - 🌍 Open Source
-
 
 ## 🏆 Achievements
 
