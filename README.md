@@ -1,6 +1,56 @@
 # 💫 About Me:
-# Hi there 👋, I'm Madhu Kaleru<br><br>🚀 **Software Developer | AI Engineering Enthusiast | Full Stack Developer**<br><br>I'm a Computer Science student at **KL University**. I enjoy building software, solving coding problems, and learning new technologies.<br><br>I have built **Full Stack applications using Java, Python, and the MERN stack**. I have also worked on **Data Science** projects and am currently learning **AI Engineering** to build intelligent applications.<br><br>I love solving algorithmic problems. So far, I have solved **890+ problems on LeetCode**, achieved a **1891 rating**, earned the **Knight Badge**, and am ranked in the **Top 4%** of LeetCode users.<br><br>I am also an **AWS Certified Cloud Practitioner**. I enjoy learning about cloud computing, DevOps, and scalable software development.<br><br>## 💡 What I'm Currently Doing<br><br>- 🤖 Learning AI Engineering and Large Language Models (LLMs)<br>- ☁️ Improving my Cloud Computing and DevOps skills<br>- ⚡ Building Full Stack applications and backend services<br>- 🏗️ Learning System Design and scalable software architecture<br>- 🌍 Contributing to Open Source and improving my development skills<br><br>## 🛠️ Tech Stack<br><br>**Languages**  <br>Java • Python • JavaScript • C<br><br>**Frontend**  <br>React • Next.js • HTML • CSS • Tailwind CSS<br><br>**Backend**  <br>Node.js • Express.js • Spring Boot • Django<br><br>**Databases**  <br>PostgreSQL • MySQL • Prisma<br><br>**Cloud & DevOps**  <br>AWS • Docker • Git • GitHub<br><br>**AI & Data**  <br>Machine Learning • Data Science • AI Engineering • LLM Applications<br><br>## 🏆 Achievements<br><br>- 🧩 Solved **890+ LeetCode** problems<br>- 🏅 Ranked in the **Top 4%** on LeetCode<br>- ⚔️ Earned the **LeetCode Knight Badge**<br>- 📈 **LeetCode Rating: 1891**<br>- ☁️ **AWS Certified Cloud Practitioner**<br>- 💻 Built Full Stack projects using **Java, Python, and MERN**<br><br>## 🎯 My Goal<br><br>My goal is to become a skilled **Software Engineer and AI Engineer**. I want to build useful products, contribute to open source, and keep learning every day.<br><br>> **"Keep learning. Keep building. Keep improving."** 🚀
+### Hi there 👋, I'm Madhu Kaleru
 
+**🚀 Software Developer | AI Engineering Enthusiast | Full Stack Developer**
+
+---
+
+## 💫 About Me
+
+I'm a Computer Science student at **KL University (Class of 2028)**. I enjoy building software, solving coding problems, and learning new technologies.
+
+I have built **Full Stack applications using Java, Python, and the MERN stack**. I have also worked on **Data Science** projects and am currently learning **AI Engineering** to build intelligent applications.
+
+I have solved **890+ LeetCode** problems, achieved a **1891 rating**, earned the **Knight Badge**, and rank among the **Top 4%** of LeetCode users.
+
+I'm also an **AWS Certified Cloud Practitioner** with a strong interest in Cloud Computing, DevOps, and scalable software development.
+
+## 🚀 Currently Focusing On
+
+- 🤖 AI Engineering & LLM Applications
+- ☁️ Cloud Computing & DevOps
+- ⚡ Full Stack Development
+- 🏗️ System Design
+- 🌍 Open Source
+
+## 🛠️ Tech Stack
+
+**Languages:** Java • Python • JavaScript • C
+
+**Frontend:** React • Next.js • HTML • CSS • Tailwind CSS
+
+**Backend:** Node.js • Express.js • Spring Boot • Django
+
+**Databases:** PostgreSQL • MySQL • Prisma
+
+**Cloud & DevOps:** AWS • Docker • Git • GitHub
+
+**AI & Data:** Machine Learning • Data Science • AI Engineering
+
+## 🏆 Achievements
+
+- 🧩 **890+** LeetCode Problems
+- 🏅 **Top 4%** on LeetCode
+- ⚔️ **Knight Badge**
+- 📈 **1891 LeetCode Rating**
+- ☁️ **AWS Certified Cloud Practitioner**
+- 💻 Built Full Stack projects using Java, Python & MERN
+
+## 🎯 Goal
+
+To become a skilled **Software & AI Engineer** by building impactful products, contributing to open source, and continuously learning new technologies.
+
+> *"Keep learning. Keep building. Keep improving."* 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madhu_kaleru_69/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/madhukaleru/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhukaleru36@gmail.com) 
