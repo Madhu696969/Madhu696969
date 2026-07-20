@@ -25,7 +25,7 @@ I'm also an **AWS Certified Cloud Practitioner** with a strong interest in Cloud
 - 🧩 **900+** LeetCode Problems
 - 🏅 **Top 4%** on LeetCode
 - ⚔️ **Knight Badge**
-- 📈 **1891 LeetCode Rating**
+- 📈 **1923 LeetCode Rating**
 - ☁️ **AWS Certified Cloud Practitioner**
 - 💻 Built Full Stack projects using Java, Python & MERN
 
